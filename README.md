@@ -1,1 +1,1 @@
-# Practice javascript else if statements 
+# Practice javascript else if statements and loops
