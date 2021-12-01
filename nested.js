@@ -1,4 +1,4 @@
-let num = 0
+let num = 0R
 if (num > 0) 
 {   
     if (num > 100) 
